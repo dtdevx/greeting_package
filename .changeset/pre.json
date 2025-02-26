@@ -5,6 +5,7 @@
     "@dtdev/greeting-package": "1.2.1"
   },
   "changesets": [
+    "plain-pets-write",
     "yellow-shrimps-invent"
   ]
 }
