@@ -1,10 +1,23 @@
 # @dtdev/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 3aef33b: Added Grumpy to monarch cats
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 58ed2f1: Created a monarch cats morning greet
+
 ## 1.2.2
 
 ### Patch Changes
 
 - 17e383c: Night greet changed
+
 
 ## 1.2.1
 
