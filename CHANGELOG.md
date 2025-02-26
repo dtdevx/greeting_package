@@ -1,5 +1,11 @@
 # @dtdev/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 58ed2f1: Created a monarch cats morning greet
+
 ## 1.2.1
 
 ### Patch Changes
